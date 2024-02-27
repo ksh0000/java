@@ -1,0 +1,15 @@
+package t01;
+
+public class Test6 {
+	public static void main(String[] args) {
+		
+		int su1=20;
+		int su2=30;
+		int su3=(su2/2)+su1 ;
+		
+		System.out.println("수는? "+ su3);
+		
+		System.out.println("수들의 합은?"+(su3-su1));
+	}
+
+}
